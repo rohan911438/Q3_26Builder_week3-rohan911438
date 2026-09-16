@@ -1,0 +1,10 @@
+wallet.json
+
+node_modules
+.anchor
+.surfpool
+test-ledger
+target
+**/*.rs.bk
+.DS_Store
+.yarn
